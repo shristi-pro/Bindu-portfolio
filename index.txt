@@ -1,0 +1,170 @@
+Created By: Shristi Ghalan
+Bindu - Personal Portfolio
+
+# Sidebar
+**alt = Er. Bindu Kumar Sah**
+**Civil Engineer**
+
+Show Contacts
+Email: [bindusah2016@gmail.com](mailto:bindusah2016@gmail.com)
+Phone: +977-9860838835
+Website: bindusah.com.np
+Location: Kamalamai Municipality, 06, Dhanusha, Nepal
+---
+
+# Navbar
+About
+Resume
+Portfolio
+Blog
+Contact
+---
+
+# About
+## About Me
+Experienced Civil Engineer with over 5 years of expertise in planning, designing, supervising, and managing construction projects. Skilled in infrastructure and building projects with strong knowledge of structural design, project management, surveying, and construction documentation.
+Experienced in using modern engineering tools including AutoCAD, Civil 3D, Revit, BIM, ETABS, SAP2000, and MS Project. Dedicated to delivering safe, efficient, and quality engineering solutions while ensuring compliance with engineering standards and safety regulations.
+---
+
+# Service
+
+## What I'm Doing
+**alt = Structural Design icon**
+
+### Structural Design
+RCC design, structural analysis, and engineering drawings using modern design software including ETABS and SAP2000.
+**alt = Construction Management icon**
+
+### Construction Management
+Planning, supervision, coordination, and quality control of construction projects to ensure successful completion.
+**alt = BIM & Modeling icon**
+
+### BIM & 3D Modeling
+Building Information Modeling, 3D visualization, and digital construction planning using Revit and related tools.
+**alt = Surveying icon**
+
+### Surveying & Documentation
+Surveying, estimation, project documentation, and technical reporting for construction projects.
+---
+
+# Testimonials
+## Testimonials
+### Client Feedback
+Professional civil engineering services with strong knowledge of construction planning, supervision, and project management. Delivered quality work with attention to detail and safety standards.
+---
+
+# Clients
+## Clients
+alt = Client Logo
+---
+
+# Resume
+# Resume
+## Education
+
+### B.Tech in Civil Engineering
+**Uttarakhand Technical University**
+**2016 — 2020**
+* Planned, designed, and supervised construction projects ensuring compliance with engineering standards and safety regulations.
+* Recognized for implementing effective project planning and site management practices.
+---
+
+### +2 in Science
+**Public Youth Campus**
+**2014 — 2016**
+* Achieved strong academic performance with focus on science and technical subjects.
+* Developed analytical, problem-solving, and research skills.
+---
+
+# Experience
+
+## Senior Civil Engineer
+**Banglamukhi Construction Pvt. Ltd**
+**2021 — Present**
+* Led planning, coordination, and supervision of construction projects.
+* Improved project execution efficiency and ensured timely completion.
+* Managed communication between contractors, consultants, and project teams.
+* Controlled project quality and reduced construction risks.
+---
+
+## Intern Engineer
+**L&T**
+**2020 (Six Months)**
+* Collaborated with senior engineers, architects, and project teams.
+* Assisted in reviewing drawings and implementing project requirements.
+* Participated in daily site meetings, progress reviews, and project planning activities.
+---
+
+# My Skills
+
+Surveying
+90%
+
+BIM
+85%
+
+AutoCAD
+90%
+
+Revit
+80%
+
+SketchUp
+80%
+
+Project Management
+85%
+
+Billing & Estimation
+85%
+
+Documentation
+90%
+---
+
+# Portfolio
+## Portfolio
+All
+Structural Design
+Construction Projects
+Engineering Works
+---
+
+### Building Construction Project
+Construction Management
+
+### Structural Design & Analysis
+Structural Engineering
+
+### BIM Modeling Project
+3D Building Modeling
+
+### Site Supervision Work
+Construction Management
+
+### Engineering Drawings
+AutoCAD & Design
+---
+
+# Blog
+## Blog
+### Modern Construction Technology
+Exploring new technologies and methods used in modern civil engineering projects.
+
+### Importance of Structural Design
+Understanding safe and efficient structural planning for buildings and infrastructure.
+
+### BIM in Civil Engineering
+How Building Information Modeling improves construction planning and project management.
+
+### Construction Project Management
+Best practices for managing quality, time, and resources in construction projects.
+---
+
+# Contact
+## Contact
+### Contact Form
+Full Name
+Email Address
+Your Message
+Send Message
